@@ -1,0 +1,9 @@
+﻿<Application x:Class="HUCE_DALTUDXD_68TH1_0298968.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HUCE_DALTUDXD_68TH1_0298968"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
