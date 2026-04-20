@@ -1,0 +1,47 @@
+﻿<Window x:Class="HUCE_DALTUDXD_68TH1_0298968.Views.MaterialView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HUCE_DALTUDXD_68TH1_0298968.Views"
+        mc:Ignorable="d"
+        Title="MaterialView" Height="200" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <!--cột 1-->
+
+
+        <TextBlock Text="Hệ số làm việc γc :"  Grid.Row="0" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txt_gamaC" Grid.Row="0" Grid.Column="1" Margin="5" Width="150"/>
+
+
+        <TextBlock Text="Hệ số ổn định φb :"  Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txt_phiB" Grid.Row="1" Grid.Column="1" Margin="5" Width="150"/>
+
+        <TextBlock Text="ψ :"  Grid.Row="2" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txt_ψ" Grid.Row="2" Grid.Column="1" Margin="5" Width="150"/>
+
+        <TextBlock Text="φ1 :"  Grid.Row="3" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txt_φ1" Grid.Row="3" Grid.Column="1" Margin="5" Width="150"/>
+        <TextBlock Text="α :"  Grid.Row="4" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txt_α" Grid.Row="4" Grid.Column="1" Margin="5" Width="150"/>
+        <TextBlock Text="It :"  Grid.Row="5" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txt_It" Grid.Row="5" Grid.Column="1" Margin="5" Width="150"/>
+
+    </Grid>
+</Window>
