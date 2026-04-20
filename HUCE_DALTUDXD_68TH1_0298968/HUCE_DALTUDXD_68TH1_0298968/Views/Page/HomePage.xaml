@@ -9,6 +9,6 @@
       Title="HomePage">
 
     <Grid>
-        <Image Source="/Assets/Icons/beam.png"/>
+        <Image Source="/Assets/background.png"/>
     </Grid>
 </Page>
