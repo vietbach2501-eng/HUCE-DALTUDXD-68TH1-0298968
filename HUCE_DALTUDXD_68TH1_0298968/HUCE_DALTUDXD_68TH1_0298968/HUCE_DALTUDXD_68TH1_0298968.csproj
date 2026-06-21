@@ -35,8 +35,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ETABSv1">
+      <HintPath>C:\Program Files\Computers and Structures\ETABS 22\ETABSv1.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Controls.Ribbon" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -55,7 +59,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="MainWindow.xaml">
+    <Compile Include="View\KetNoiEtabs.xaml.cs">
+      <DependentUpon>KetNoiEtabs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_Ribbon\UC_Ribbon.xaml.cs">
+      <DependentUpon>UC_Ribbon.xaml</DependentUpon>
+    </Compile>
+    <Page Include="View\KetNoiEtabs.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -63,10 +77,14 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="View\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="View\UC_Ribbon\UC_Ribbon.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -95,11 +113,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Assets\Icons\" />
     <Folder Include="Assets\Images\" />
     <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
-    <Folder Include="View\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\Icons\DuLieuEtabs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\Icons\MatBangCacTang.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\huce_daltudxd_68th1_0298968\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|solutionrelative:huce_daltudxd_68th1_0298968\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\huce_daltudxd_68th1_0298968\\view\\ketnoietabs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|solutionrelative:huce_daltudxd_68th1_0298968\\view\\ketnoietabs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|d:\\huce-daltudxd-68th1-0298968\\huce-daltudxd-68th1-0298968\\huce_daltudxd_68th1_0298968\\huce_daltudxd_68th1_0298968\\view\\uc_ribbon\\uc_ribbon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|solutionrelative:huce_daltudxd_68th1_0298968\\view\\uc_ribbon\\uc_ribbon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\huce_daltudxd_68th1_0298968\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|solutionrelative:huce_daltudxd_68th1_0298968\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\huce_daltudxd_68th1_0298968\\view\\uc_ribbon\\uc_ribbon.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BCE55CF6-FBA9-4168-92CB-246ACC947E6F}|HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968.csproj|solutionrelative:huce_daltudxd_68th1_0298968\\view\\uc_ribbon\\uc_ribbon.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetNoiEtabs.xaml",
+              "DocumentMoniker": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\KetNoiEtabs.xaml",
+              "RelativeDocumentMoniker": "HUCE_DALTUDXD_68TH1_0298968\\View\\KetNoiEtabs.xaml",
+              "ToolTip": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\KetNoiEtabs.xaml",
+              "RelativeToolTip": "HUCE_DALTUDXD_68TH1_0298968\\View\\KetNoiEtabs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:58:56.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:55:47.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Ribbon.xaml.cs",
+              "DocumentMoniker": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml.cs",
+              "RelativeDocumentMoniker": "HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml.cs",
+              "ToolTip": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml.cs",
+              "RelativeToolTip": "HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:33:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Ribbon.xaml",
+              "DocumentMoniker": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml",
+              "RelativeDocumentMoniker": "HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml",
+              "ToolTip": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml",
+              "RelativeToolTip": "HUCE_DALTUDXD_68TH1_0298968\\View\\UC_Ribbon\\UC_Ribbon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-20T05:45:20.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\HUCE-DALTUDXD-68TH1-0298968\\HUCE-DALTUDXD-68TH1-0298968\\HUCE_DALTUDXD_68TH1_0298968\\HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml",
+              "RelativeToolTip": "HUCE_DALTUDXD_68TH1_0298968\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-19T13:34:32.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
